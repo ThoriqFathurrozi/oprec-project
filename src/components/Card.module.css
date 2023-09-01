@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.image {
+  /* width: 100%; */
+  /* max-width: 100%; */
+  /* width: 300px;
+  height: 280px; */
+  aspect-ratio: 2/3;
+  object-fit: cover;
+}
+
+.title {
+  line-height: 91.3%;
+}
+
+/* @layer components {
+  .card {
+    @apply bg-dark-blue h-fit rounded-md relative;
+  }
+  .cardimg {
+    @apply z-[-1] rounded-t-md object-top;
+  }
+  .card-text {
+    @apply z-10 p-4 text-white;
+  }
+  .card-h3 {
+    @apply uppercase text-xl font-Open-Sans font-extrabold;
+  }
+  .card-small {
+    @apply uppercase font-normal font-Open-Sans text-yellow-bright;
+  }
+} */

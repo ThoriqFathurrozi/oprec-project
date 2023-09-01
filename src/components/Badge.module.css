@@ -1,0 +1,15 @@
+.badge {
+  padding: 0.5em 1em;
+  color: #ffd728;
+  max-width: max-content;
+  border-radius: 4px;
+}
+
+.filled {
+  background-color: #ffd728;
+  color: #240f3a;
+}
+
+.badge svg {
+  height: 3em;
+}

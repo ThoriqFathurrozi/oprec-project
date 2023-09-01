@@ -1,0 +1,28 @@
+.btn {
+  text-decoration: none;
+  cursor: pointer;
+  padding: 0.5em 1em;
+  max-width: max-content;
+  border-color: #ffd728;
+  color: #ffd728;
+}
+
+.btn:hover {
+  border-color: #ff80d9;
+  color: #ff80d9;
+}
+
+.btn svg {
+  height: 1em;
+}
+
+.filled {
+  background-color: #ffd728;
+  color: #240f3a;
+}
+
+.filled:hover {
+  background-color: #ff80d9;
+  color: #240f3a;
+  border-color: #ff80d9;
+}
