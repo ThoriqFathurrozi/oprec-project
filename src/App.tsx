@@ -100,7 +100,7 @@ function App() {
 
         <section
           id="Benefits"
-          className="w-full flex flex-col gap-7 2xl:w-6/12 self-center items-center"
+          className="w-full flex flex-col gap-7 xl:w-9/12 self-center items-center"
         >
           <Badge
             text="Benefits"

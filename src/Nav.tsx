@@ -23,7 +23,7 @@ function Nav() {
           {/* logo */}
           <a href="http://hmti.polinema.ac.id/ ">
             <div className="flex text-2xl cursor-pointer items-center gap-3 hover:opacity-80 ">
-              <img src="/HMTI.png" alt="" className="w-10 h-10" />
+              <img src="./HMTI.png" alt="" className="w-10 h-10" />
               <span className="font-bold text-white">HMTI 09</span>
             </div>
           </a>

@@ -7,7 +7,7 @@ function Hero() {
       {/* text */}
       <div className=" ">
         <small className="text-lg text-white font-Open-Sans font-normal">
-          <span className="text-yellow-bright "> August 28 - Sept 4</span> /
+          <span className="text-yellow-bright "> sept 1 - Sept 17</span> /
           looking for superior functionaries
         </small>
         <h1 className="lg:text-6xl md:text-4xl text-3xl text-yellow-bright font-Fuguz-One pb-5  ">
