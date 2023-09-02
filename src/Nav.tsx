@@ -42,9 +42,9 @@ function Nav() {
 
           {/* links */}
           <ul
-            className={`md:flex pl-9 md:pl-0 gap-5 md:items-center md:pb-0 pb-12 absolute md:static md:bg-transparent md:backdrop-blur-none md:w-auto md:z-auto z-[-1] left-0 w-full transition-all duration-500 ease-in  ${
+            className={`md:flex pl-9 md:pl-0 gap-5 md:items-center md:pb-0 pb-12 absolute md:static md:bg-transparent md:backdrop-blur-none md:w-auto md:z-auto z-[-110] left-0 w-full transition-all duration-500 ease-in  ${
               isOpen
-                ? "top-[64px] backdrop-blur-xl bg-gray-blur"
+                ? "top-[64px] md:backdrop-blur-xl backdrop-blur-3xl bg-dark-blue md:bg-gray-blur"
                 : "top-[-490px]"
             }`}
           >
